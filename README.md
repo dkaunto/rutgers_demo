@@ -5,6 +5,16 @@ This is my Module 1 Homework.
 
 Here are my homework answers.
 
+# Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+1. asd
+2. asd
+3. mangoes
+
+# What are some limitations of this dataset?
+
+?? ??
+??
+
 
 Statistical analysis.
 
