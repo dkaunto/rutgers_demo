@@ -12,6 +12,12 @@ Here are my homework answers.
 
 # What are some limitations of this dataset?
 
+- hello
+- mangoes
+- ice cream
+
+
+
 ?? ??
 ??
 
